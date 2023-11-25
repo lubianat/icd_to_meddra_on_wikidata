@@ -1,0 +1,1 @@
+wget https://cdn.who.int/media/docs/default-source/classification/icd/icd-10/icd-10-to-meddra-map---june-2023---codes-mapping.xlsx 
